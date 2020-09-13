@@ -4,7 +4,7 @@ Instructions on how to run the solution
 
 1. Create the virtual enviroment
 
-2. Make sure you have python 3.8 or Higher installed for tensorflow 2. 
+2. Make sure you have python 3.8 or higher installed for tensorflow 2. 
 
 3. Install the required packages in your virtual enviroment
 
